@@ -11,25 +11,25 @@ This Portfolio is a compilation of all My projects I have done for stakeholder, 
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/Amandaagambire/Project-Portfolio/images/gait.jpg"> **[Gait Biometics Research](https://github.com/Amandaagambire/gaitguard)**
+<img align="left" width="250" height="150" src="https://github.com/Amandaagambire/Project-Portfolio/blob/master/images/gait.jpg"> **[Gait Biometics Research](https://github.com/Amandaagambire/gaitguard)**
 
 In this project I have used time series acelerometry data colleced from phones and watch devices  to study the reliabilty of a person's gait as a form of authnetication. I have also implementd a Random Forest model to.... [App](https://churn-prediction-app.herokuapp.com/)  
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Amandaagambire/Project-Portfolio/images/A-champs.jpg"> **[A-Champs Gamification Market  Analysis](https://github.com/Amandaagambire/A-Champs-Gamification )**
+<img align="left" width="250" height="150" src="https://github.com/Amandaagambire/Project-Portfolio/blob/master/images/A-champs.jpg"> **[A-Champs Gamification Market  Analysis](https://github.com/Amandaagambire/A-Champs-Gamification )**
 
 The objective of this project is to analyze the US Youth Soccer Market and At-Home Sports Training App Market to predict ..
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Amandaagambire/Project-Portfolio/images/galamsey.jpg"> **[Illegal Mining Detection](https://github.com/Amandaagambire/Illegal-Mining-Detection-Galamsey-Watch)**
+<img align="left" width="250" height="150" src="https://github.com/Amandaagambire/Project-Portfolio/blob/master/images/galamsey.jpg"> **[Illegal Mining Detection](https://github.com/Amandaagambire/Illegal-Mining-Detection-Galamsey-Watch)**
  
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Amandaagambire/Project-Portfolio/images/city connections.jpeg"> **[City Connections](https://github.com/Amandaagambire/cityconnections)**
+<img align="left" width="250" height="150" src="https://github.com/Amandaagambire/Project-Portfolio/blob/master/images/city connections.jpeg"> **[City Connections](https://github.com/Amandaagambire/cityconnections)**
 
 In this project I have used models such a....
 
