@@ -11,26 +11,25 @@ This Portfolio is a compilation of all My projects I have done for stakeholder, 
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/Amandaagambire/Project-Portfolio/blob/master/images/gait.jpg"> **[Gait Biometics Research](https://github.com/Amandaagambire/gaitguard)**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/d0a5530b-c04a-46fa-bbab-c1623310578e"> **[Gait Biometics Research](https://github.com/Amandaagambire/gaitguard)**
 
 In this project I have used time series acelerometry data colleced from phones and watch devices  to study the reliabilty of a person's gait as a form of authnetication. I have also implementd a Random Forest model to.... [App](https://churn-prediction-app.herokuapp.com/)  
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Amandaagambire/Project-Portfolio/blob/master/images/A-champs.jpg"> **[A-Champs Gamification Market  Analysis](https://github.com/Amandaagambire/A-Champs-Gamification )**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/879ecb4d-6b0b-4fcd-afd0-ba0ec96c9bac"> **[A-Champs Gamification Market  Analysis](https://github.com/Amandaagambire/A-Champs-Gamification )**
 
 The objective of this project is to analyze the US Youth Soccer Market and At-Home Sports Training App Market to predict ..
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Amandaagambire/Project-Portfolio/blob/master/images/galamsey.jpg"> **[Illegal Mining Detection](https://github.com/Amandaagambire/Illegal-Mining-Detection-Galamsey-Watch)**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/4ef73102-0bd0-4dbd-ada3-56bf6e6c7fbd"> **[Illegal Mining Detection](https://github.com/Amandaagambire/Illegal-Mining-Detection-Galamsey-Watch)**
  
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
 #
-![city connections](https://github.com/user-attachments/assets/d1827e8d-2914-4295-b6c8-59f0b3b24ccd)
 
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/d1827e8d-2914-4295-b6c8-59f0b3b24ccd"> **[City Connections](https://github.com/Amandaagambire/cityconnections)**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/e0a5c5f7-fbd2-451a-848f-54c1ad07d3dd"> **[City Connections](https://github.com/Amandaagambire/cityconnections)**
 
 In this project I have used models such a....
 
@@ -70,7 +69,7 @@ Cedi performance with cetain econmic inputs..
  
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
+- **Methodologies**: Machine Learning Pipeline, Time Series Analysis, Statistics, A/B Testing and Big Data Analytics
 - **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
 - **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
 
