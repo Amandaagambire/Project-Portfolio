@@ -23,23 +23,18 @@ The objective of this project is to analyze the US Youth Soccer Market and At-Ho
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/Amandaagambire/Illegal-Mining-Detection-Galamsey-Watch)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Illegal Mining Detection](https://github.com/Amandaagambire/Illegal-Mining-Detection-Galamsey-Watch)**
  
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/Amandaagambire/cityconnections)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[City Connections](https://github.com/Amandaagambire/cityconnections)**
 
 In this project I have used models such a....
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
-
-In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields lowest Test RMSE-6.404.
-
-#
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/phase1.jpg"> **[Multivariate Phase 1 Analysis](https://github.com/archd3sai/Multivariate-Phase-1-Analysis)** 
 
@@ -57,6 +52,7 @@ Cedi performance with cetain econmic inputs..
 
 ## Micro Projects
 - ### Statistics and Machine Learning
+    - [NHIS Econometrics Data Research](https://github.com/Amandaagambire/NHIS Econometrics): In this project, I ...
     - [Genetic Algorithm](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm that finds out the list of numbers which equal to any specified number when summed together.
     - [Bayesian Statistics](https://github.com/archd3sai/Statistical-Methods/blob/master/Bayesian%20Statistics.ipynb) : In this file, I explored how bayesian statistics works and how prior assumption reflects posterior probabilities using Gun control example. 
     - [Gaussian Mixture Model and Expectation Maximization](https://github.com/archd3sai/Statistical-Methods/blob/master/GMM-EM.ipynb): In this file, I implemented Expectation Maximization algorithm to find out true distribution of one dimensional GMM of 2 gaussians.
