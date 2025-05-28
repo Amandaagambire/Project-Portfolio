@@ -8,7 +8,6 @@ This Portfolio is a compilation of all My projects I have done for stakeholder, 
 - Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
 - [Publication](https://studyinternational.com/news/bucknell-university-pioneering-undergraduate-research-and-interdisciplinary-learning/): Undergraduate Computer Science Research on the Trust worthiness of Gait Biometics
 - 
-![city connections](https://github.com/user-attachments/assets/8a893a0f-d144-4357-936d-7f7ea414f105)
 
 ## Projects
 
@@ -29,8 +28,9 @@ The objective of this project is to analyze the US Youth Soccer Market and At-Ho
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
 #
+![city connections](https://github.com/user-attachments/assets/d1827e8d-2914-4295-b6c8-59f0b3b24ccd)
 
-<img align="left" width="250" height="150" src="https://github.com/Amandaagambire/Project-Portfolio/blob/master/images/city connections.jpeg"> **[City Connections](https://github.com/Amandaagambire/cityconnections)**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/d1827e8d-2914-4295-b6c8-59f0b3b24ccd"> **[City Connections](https://github.com/Amandaagambire/cityconnections)**
 
 In this project I have used models such a....
 
