@@ -8,6 +8,7 @@ This Portfolio is a compilation of all My projects I have done for stakeholder, 
 - Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
 - [Publication](https://studyinternational.com/news/bucknell-university-pioneering-undergraduate-research-and-interdisciplinary-learning/): Undergraduate Computer Science Research on the Trust worthiness of Gait Biometics
 - 
+![city connections](https://github.com/user-attachments/assets/8a893a0f-d144-4357-936d-7f7ea414f105)
 
 ## Projects
 
