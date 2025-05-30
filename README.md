@@ -12,7 +12,7 @@ This Portfolio is a compilation of all my projects I have done for stakeholder, 
 
 <img align="left" width="250" height="120" src="https://github.com/user-attachments/assets/d0a5530b-c04a-46fa-bbab-c1623310578e"> **[Gait Biometics Research](https://github.com/Amandaagambire/gaitguard)**
 
-In this project I have used time series acelerometry data colleced from phones and watch devices  to study the reliabilty of a person's gait as a form of authnetication. I have also implementd a Random Forest model to.... [App](https://churn-prediction-app.herokuapp.com/)  
+In this project I have used time series acelerometry data colleced from phones and watch devices  to study the reliabilty of a person's gait as a form of authnetication. I have also implementd a Random Forest model to....
 
 
 #
