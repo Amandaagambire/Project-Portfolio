@@ -34,16 +34,9 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 #
 
-<img align="left" width="250" height="130" src="https://github.com/user-attachments/assets/aa64d604-9f52-4396-b43b-26094c04cb98"> **[City Connections](https://github.com/Amandaagambire/cityconnections)**
+<img align="left" width="250" height="130" src="https://github.com/user-attachments/assets/aa64d604-9f52-4396-b43b-26094c04cb98"> **[City Connections](https://github.com/Amandaagambire/city_connections)**
  
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
-
-#
-
-<img align="left" width="250" height="100" src="https://github.com/archd3sai/Portfolio/blob/master/Images/phase1.jpg"> **[Multivariate Phase 1 Analysis](https://github.com/)** 
-
-Objective of this project is to ...
-
+A project that utilizes graphing agorithms incuding Kruskal's and Prim's agorithm to find the shortest path given a city map and a start and destination.
 
 #
 
