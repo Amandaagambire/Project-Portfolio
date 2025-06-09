@@ -6,7 +6,7 @@ Welcome to my project portfolio, highlighting data-driven solutions I've develop
 
 ## Achievements
 - [Publication](https://studyinternational.com/news/bucknell-university-pioneering-undergraduate-research-and-interdisciplinary-learning/): Undergraduate Computer Science Research – "Evaluating the Trustworthiness of Gait Biometrics for User Authentication"
-- 
+
 
 ## Projects
 
